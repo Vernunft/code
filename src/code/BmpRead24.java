@@ -39,6 +39,7 @@ public class BmpRead24 extends javax.swing.JFrame {
                     "F:\\BaiduYunDownload\\1.bmp");  
   
             // 根据文件输入流对象创建原始数据输入对象  
+            
             // 这里既可以用原始数据输入流来读取数据，也可以用缓冲输入流来读取，后者速度相比较快点。  
 //          java.io.DataInputStream bis = new java.io.DataInputStream(fin);  
   
